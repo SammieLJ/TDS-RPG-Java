@@ -1,0 +1,5 @@
+25
+SloMaleNames.txt
+SloFemaleNames.txt
+Generirana_gesla.txt
+100
